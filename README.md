@@ -14,8 +14,6 @@
 * 🌱Aprendendo tudo sobre **Open Source**
 * 📫Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
 
-<br/>
-
 #### Linguagens, Frameworks e Ferramentas:
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
@@ -26,6 +24,7 @@
 <code><img height="20" src="https://3.bp.blogspot.com/-UoTTtVe4t0Y/WujzP9IF7II/AAAAAAAAAiY/DnBjFV7CICsTZsYl308fofPNhOh5m-WXACLcBGAs/s1600/robotfw_mark_black_low.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHe0fn9Bp8q5iB_yhJOt35aZAD1yABrLjOAQ&usqp=CAU"></code>
 <code><img height="20" src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png"></code>
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/340/1*HP0Qss6BAQcv0UbHb21YFQ.png"></code>
@@ -38,7 +37,7 @@
 <code><img height="20" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png"></code>
 <code><img height="20" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png"></code>
 
-<br/><br/><br/><br/>
+<br/>
 
 ---
 
@@ -49,7 +48,7 @@
 [<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
 
 
-<br/><br/><br/><br/>
+<br/>
 
 ---
 
