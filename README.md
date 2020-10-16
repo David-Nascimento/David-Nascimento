@@ -1,10 +1,7 @@
-### 👋 Olá!
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+### 👋 Olá !
 <br/>
 
----
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 #### Analista de Qualidade de Software - QA / Fortaleza - CE
 
@@ -48,7 +45,7 @@
 [<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
 
 
-<br/>
+<br/><br/>
 
 ---
 
