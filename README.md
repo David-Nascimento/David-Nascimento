@@ -10,8 +10,8 @@ Bem vindo a minha pagina!
 
 * 🏢Atualmente trabalho no **Hapvida - Fortaleza**
 * ⚙️ Eu uso diariamente: `.java`, `.appium`, `.jenkins`, `.android`, `.cucumber`, `.oracle`, `.selenium`
-* 🎙Sou mais ativo nas comunidades de **Testes de software**
-* 🌱Aprendendo tudo sobre **Open Source**
+* 🎙Sou mais ativo em comunidades de **Testes de software**
+* 🌱Aprendendo tudo sobre **Automação**
 * 📫Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
 
 #### Linguagens, Frameworks e Ferramentas:
