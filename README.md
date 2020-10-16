@@ -13,6 +13,7 @@ Bem vindo a minha pagina!
 * 🎙Sou mais ativo em comunidades de **Testes de software**
 * 🌱Aprendendo tudo sobre **Automação**
 * 📫Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
+* [My Gist](https://gist.github.com/David-Nascimento)
 
 #### Linguagens, Frameworks e Ferramentas:
 
