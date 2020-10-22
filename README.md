@@ -8,11 +8,11 @@ Bem vindo a minha pagina!
 
 #### Analista de Qualidade de Software - QA / Fortaleza - CE
 
-* 🏢Atualmente trabalho no **Hapvida - Fortaleza**
+* 🏢 Atualmente trabalho no **Hapvida - Fortaleza**
 * ⚙️ Eu uso diariamente: `.java`, `.appium`, `.jenkins`, `.android`, `.cucumber`, `.oracle`, `.selenium`
-* 🎙Sou mais ativo em comunidades de **Testes de software**
-* 🌱Aprendendo tudo sobre **Automação**
-* 📫Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
+* 🎙 Sou mais ativo em comunidades de **Testes de software**
+* 🌱 Aprendendo tudo sobre **Automação**
+* 📫 Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
 * [My Gist](https://gist.github.com/David-Nascimento)
 
 #### Linguagens, Frameworks e Ferramentas:
