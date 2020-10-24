@@ -14,6 +14,7 @@ Bem vindo a minha pagina!
 * 🌱 Aprendendo tudo sobre **Automação**
 * 📫 Envie-me um ping sobre **Autmação**, **Java**, **Cucumber**, **desenvolvimento**
 * [My Gist](https://gist.github.com/David-Nascimento)
+* [CI-CD Projects](https://gitlab.com/david_nascimento)
 
 #### Linguagens, Frameworks e Ferramentas:
 
