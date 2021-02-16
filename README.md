@@ -2,10 +2,9 @@
 
 Bem vindo a minha pagina!
 
+<img align="right" alt="GIF" src="https://i2.wp.com/cdn-images-1.medium.com/max/1200/1*lSUb1T4YW1td0UskwsGZ1w.gif?w=1920&ssl=1" width="320" height="200" />
+
 <br/>
-
-<img align="right" alt="GIF" src="https://i2.wp.com/cdn-images-1.medium.com/max/1200/1*lSUb1T4YW1td0UskwsGZ1w.gif?w=1920&ssl=1" width="500" height="320" />
-
 #### Analista de Qualidade de Software - QA / Fortaleza - CE
 
 * 🏢 Atualmente trabalho no **Hapvida - Fortaleza**
