@@ -5,7 +5,6 @@ Bem vindo a minha pagina!
 <img align="right" alt="GIF" src="https://i2.wp.com/cdn-images-1.medium.com/max/1200/1*lSUb1T4YW1td0UskwsGZ1w.gif?w=1920&ssl=1" width="320" height="180" />
 <img align="right" alt="GIF" src="https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg" width="320" height="180" />
 
-<br/>
 #### Analista de Qualidade de Software - QA / Fortaleza - CE
 
 * 🏢 Atualmente trabalho no **Hapvida - Fortaleza**
