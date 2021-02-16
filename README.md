@@ -2,7 +2,7 @@
 Bem vindo a minha pagina!
 <br/>
 
-<img align="right" alt="GIF" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif" width="320" height="180" />
+<img align="right" alt="GIF" src="https://thepracticaldev.s3.amazonaws.com/i/snu9zy2ywp0ftfcthda2.jpg" width="320" height="180" />
 
 #### Analista de Qualidade de Software - QA / Fortaleza - CE
 
