@@ -36,8 +36,7 @@ Bem vindo a minha pagina!
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSef6u2SDZI2RvV0Z89ClQe7cRph4cNNjaKbg&usqp=CAU"></code>
 <code><img height="20" src="https://5.imimg.com/data5/PR/TC/MY-42773694/selenium-testing-training-500x500.png"></code>
-<code><img height="20" src="https://qa-platforms.com/wp-content/uploads/2019/09/cucumber-black-512.png"></code>
-<code><img height="20" src="https://www.qatestingtools.com/sites/default/files/tools_shortcuts/capybara-150px_1.png"></code>
+<code><img height="20" src="https://www.cleanpng.com/png-cucumber-behavior-driven-development-selenium-java-2638505/"></code>
 
 <br/>
 
